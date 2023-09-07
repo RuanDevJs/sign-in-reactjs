@@ -1,0 +1,36 @@
+.button {
+  width: 320px;
+  padding: 12px;
+
+  border: 0;
+  outline: 0;
+
+  border-radius: 4px;
+
+  margin: 24px auto 14px auto;
+  cursor: pointer;
+}
+
+.button {
+  font-weight: 900;
+  font-size: 0.875rem;
+  color: #ffffff;
+
+  transition: 0.3s ease-in-out;
+}
+
+.success {
+  background-color: #00875f;
+}
+
+.success:hover {
+  background-color: #029469;
+}
+
+.remove {
+  background-color: #ec283a !important;
+}
+
+.remove:hover {
+  background-color: #ec281c !important;
+}

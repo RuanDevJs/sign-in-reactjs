@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+ul,
+li,
+a,
+p,
+span,
+img {
+  max-width: 100%;
+  display: block;
+}
+
+body,
+label,
+input {
+  font-family: "Roboto", sans-serif;
+  font-size: 1rem;
+  color: #c2c2c2;
+}
+
+li,
+a {
+  list-style: none;
+  text-decoration: none;
+}
